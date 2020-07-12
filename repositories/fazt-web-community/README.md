@@ -8,9 +8,17 @@
 
 ## Table of contents
 * [Repository](#Repository)
+* [Technologies](#Technologies)
 * [Files names](#Files-names)
 
 ## [Repository](https://github.com/faztcommunity/fazt-web-community)
+
+## Technologies
+* [Node.JS](https://nodejs.org/)
+* [React.JS](http://reactjs.org/)
+* [MaterialUI](https://material-ui.com/)
+* [SASS](https://sass-lang.com/)
+* [BEM](http://getbem.com/)
 
 ## Files names
 The file name must be in camelCase.
