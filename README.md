@@ -1,1 +1,30 @@
 # Documentation of Fazt Community projects
+[![Fazt Community](https://img.shields.io/badge/Fazt%20Community-GitHub-red)](https://github.com/faztcommunity)
+[![Fazt Tech](https://img.shields.io/discord/466723723853037589?label=Fazt%20Tech)](https://discord.gg/fazttech)
+
+## Table of contents
+* [Licensing](./licensing.md)
+* [How to contribute](./contribute.md)
+  * [Headers](./contribute.md#Headers)
+  * [TODO comments](./contribute.md#TODO-comments)
+  * [Documentation](./contribute.md#Documentation)
+  * [Commits](./contribute.md#Commits)
+  * [Readme](./contribute.md#Readme)
+  * [Testing](./contribute.md#Testing)
+* [Discord server](./discord.md)
+  * [Joining the Discord server](./discord.md#Joining-to-the-Discord-server)
+  * [Requisities](./discord.md#Requisities)
+  * [Accepting process](./discord.md#Accepting-process)
+* [Pull Request](./pull_request.md)
+  * [Format](./pull_request.md#Format)
+  * [Merge](./pull_request.md#Merge)
+* [Repositories](./repositories/README.md)
+  * [Fazt API](./repositories/README.md#Fazt-API)
+  * [Fazt Web Community](./repositories/README.md#Fazt-Web-Community)
+  * [Fazt Bot](./repositories/README.md#Fazt-Bot)
+* [External links](#External-links)
+
+## External links
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+* [GitHub Book](https://git-scm.com/book/es/v2)
