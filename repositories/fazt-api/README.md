@@ -43,4 +43,4 @@ The file name must be in dots case.
 ```
 
 ## Documentation
-* [APIDOC](https://apidocjs.com/)
+* [APIDOC](https://apidocjs.com/
