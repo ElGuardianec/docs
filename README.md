@@ -16,6 +16,7 @@
   * [Requisities](./discord.md#Requisities)
   * [Accepting process](./discord.md#Accepting-process)
 * [Pull Request](./pull_request.md)
+  * [Branch name](./pull_request.md#Branch-name)
   * [Format](./pull_request.md#Format)
   * [Merge](./pull_request.md#Merge)
 * [Repositories](./repositories/README.md)
