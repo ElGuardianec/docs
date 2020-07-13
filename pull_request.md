@@ -1,8 +1,17 @@
 # Pull Request
 
 ## Table of contents
+* [Branch name](#Branch-name)
 * [Format](#Format)
 * [Merge](#Merge)
+
+## Branch name
+The branch name must have two parts: the type and the name of the feature or area. For example:
+```
+feat/commands
+feat/users-endpoint
+fix/navigator
+```
 
 ## Format
 The pull request title must contain the action and optional short description of the changes. For example:

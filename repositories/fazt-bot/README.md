@@ -8,9 +8,27 @@
 
 ## Table of contents
 * [Repository](#Repository)
+* [Technologies](#Technologies)
+* [Dependencies](#Dependencies)
 * [Files names](#Files-names)
 
 ## [Repository](https://github.com/faztcommunity/fazt-bot)
+
+## Technologies
+* [MongoDB](https://www.mongodb.com/)
+* [Node.JS](https://nodejs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+
+## Dependencies
+* [FFmpeg](https://ffmpeg.org/)
+* [Discord.JS](https://discord.js.org/)
+* [Mongoose](https://mongoosejs.com/)
+* [ESLint](https://eslint.org/)
+* [simple-youtube-api](https://tjrgg.github.io/simple-youtube-api/master/index.html)
+* [ytdl-core](https://www.npmjs.com/package/ytdl-core)
+* [axios](https://www.npmjs.com/package/axios)
+* [Moment.JS](https://momentjs.com/)
+* [Figlet](https://www.npmjs.com/package/figlet)
 
 ## Files names
 The file name must be in lower camelCase.
